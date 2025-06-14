@@ -31,7 +31,7 @@
 
 ### 🧩 Projects
 
-- 💼 [Portfolio Website](https://mani-manepalli.github.io/Protfolio-2/)  
+- 💼 [Portfolio Website](https://mani-manepalli.github.io/Portfolio-2/)  
   A personal site built with HTML, CSS, and JavaScript to showcase my skills and work.
 
 - 🤖 YouTube Auto Uploader using N8N  
