@@ -44,11 +44,11 @@
 
 ### 📫 Let's Connect!
 
-- [🌐 Portfolio](https://mani-manepalli.github.io/Protfolio-2/)
-- [💼 LinkedIn](https://www.linkedin.com/in/mani-kanta69/)
+- 🌐 [Portfolio](https://mani-manepalli.github.io/Protfolio-2/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mani-kanta69/)
+- 📸 [Instagram](https://www.instagram.com/ig_tony_69_?igsh=Zm4xb3BpMDRueDBn)
 - ✉️ Email: 699manikanta@gmail.com
 
 ---
 
 > “Consistency > Perfection. Keep building, keep improving.” 💯
-
