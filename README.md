@@ -46,7 +46,7 @@
 
 - [🌐 Portfolio](https://mani-manepalli.github.io/Protfolio-2/)
 - [💼 LinkedIn](https://www.linkedin.com/in/mani-kanta69/)
-- ✉️ Email: your@email.com *(update this!)*
+- ✉️ Email: 699manikanta@gmail.com
 
 ---
 
